@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"sourceMap": true
+	},
+	"files": [
+		"023_interfaces.ts"
+	]
+}
+
