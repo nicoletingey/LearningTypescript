@@ -1,9 +1,11 @@
 {
 	"compilerOptions": {
+		"module": "amd",
+		"target": "es6", // sudo typings install dt~es6-promise dt~es6-collections --global --save
 		"sourceMap": true
 	},
 	"files": [
-		"029_promises.ts"
+		"030_decorator_introduction.ts"
 	]
 }
 
